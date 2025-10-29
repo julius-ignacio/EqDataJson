@@ -1,0 +1,35 @@
+name: Update Earthquake Data
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"  # Runs every 3 hours
+  workflow_dispatch:        # Allows manual run from GitHub
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run PHIVOLCS scraper
+        run: |
+          python phivolcs_scraper.py
+
+      - name: Commit and push JSON update
+        run: |
+          git config user.name "AutoScraper Bot"
+          git config user.email "bot@example.com"
+          git add earthquake_data.json
+          git commit -m "Auto-update earthquake data" || echo "No changes"
+          git push
