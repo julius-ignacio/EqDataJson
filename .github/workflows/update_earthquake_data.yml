@@ -24,7 +24,7 @@ jobs:
 
       - name: Run PHIVOLCS scraper
         run: |
-          python phivolcs_scraper.py
+          python scraper/static_scrape_phivolcs.py
 
       - name: Commit and push JSON update
         run: |
