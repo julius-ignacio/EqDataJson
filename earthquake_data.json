@@ -1,5 +1,45 @@
 [
   {
+    "time": "30 October 2025 - 01:04 PM",
+    "magnitude": "2.3",
+    "location": "027km N 21Â° W of Manay (Davao Oriental)"
+  },
+  {
+    "time": "30 October 2025 - 01:02 PM",
+    "magnitude": "2.4",
+    "location": "031km N 76Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "30 October 2025 - 12:58 PM",
+    "magnitude": "1.5",
+    "location": "021km S 10Â° E of General Luna (Surigao Del Norte)"
+  },
+  {
+    "time": "30 October 2025 - 12:54 PM",
+    "magnitude": "1.5",
+    "location": "010km N 60Â° E of Monkayo (Davao De Oro)"
+  },
+  {
+    "time": "30 October 2025 - 12:18 PM",
+    "magnitude": "1.8",
+    "location": "014km N 46Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "30 October 2025 - 12:04 PM",
+    "magnitude": "1.8",
+    "location": "003km S 65Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "30 October 2025 - 12:01 PM",
+    "magnitude": "2.5",
+    "location": "013km S 79Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "30 October 2025 - 11:40 AM",
+    "magnitude": "2.4",
+    "location": "007km S 45Â° E of City Of Bogo (Cebu)"
+  },
+  {
     "time": "30 October 2025 - 10:55 AM",
     "magnitude": "1.9",
     "location": "046km N 35Â° E of Manay (Davao Oriental)"
@@ -8,45 +48,5 @@
     "time": "30 October 2025 - 10:39 AM",
     "magnitude": "1.8",
     "location": "002km N 45Â° W of General Luna (Surigao Del Norte)"
-  },
-  {
-    "time": "30 October 2025 - 10:37 AM",
-    "magnitude": "2.2",
-    "location": "024km N 62Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "30 October 2025 - 10:32 AM",
-    "magnitude": "2.0",
-    "location": "017km S 33Â° E of General Luna (Surigao Del Norte)"
-  },
-  {
-    "time": "30 October 2025 - 10:06 AM",
-    "magnitude": "1.5",
-    "location": "007km N 09Â° W of Carmen (Bohol)"
-  },
-  {
-    "time": "30 October 2025 - 09:47 AM",
-    "magnitude": "2.2",
-    "location": "011km N 70Â° E of Alilem (Ilocos Sur)"
-  },
-  {
-    "time": "30 October 2025 - 09:46 AM",
-    "magnitude": "2.2",
-    "location": "008km S 02Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "30 October 2025 - 09:07 AM",
-    "magnitude": "3.5",
-    "location": "071km S 09Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
-  },
-  {
-    "time": "30 October 2025 - 08:18 AM",
-    "magnitude": "1.6",
-    "location": "013km S 81Â° E of Dumangas (Iloilo)"
-  },
-  {
-    "time": "30 October 2025 - 08:17 AM",
-    "magnitude": "1.8",
-    "location": "013km N 04Â° E of City Of Bogo (Cebu)"
   }
 ]
