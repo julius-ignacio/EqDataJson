@@ -1,5 +1,45 @@
 [
   {
+    "time": "01 November 2025 - 04:59 PM",
+    "magnitude": "1.9",
+    "location": "039km S 85Â° E of Baler (Aurora)"
+  },
+  {
+    "time": "01 November 2025 - 04:23 PM",
+    "magnitude": "2.1",
+    "location": "010km S 46Â° W of Calatagan (Batangas)"
+  },
+  {
+    "time": "01 November 2025 - 04:12 PM",
+    "magnitude": "1.8",
+    "location": "019km N 54Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "01 November 2025 - 03:58 PM",
+    "magnitude": "2.5",
+    "location": "052km S 45Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "01 November 2025 - 03:04 PM",
+    "magnitude": "2.5",
+    "location": "027km N 61Â° E of Don Marcelino (Davao Occidental)"
+  },
+  {
+    "time": "01 November 2025 - 02:57 PM",
+    "magnitude": "2.0",
+    "location": "015km S 14Â° E of Calatagan (Batangas)"
+  },
+  {
+    "time": "01 November 2025 - 02:57 PM",
+    "magnitude": "4.4",
+    "location": "021km S 16Â° E of Uyugan (Batanes)"
+  },
+  {
+    "time": "01 November 2025 - 02:49 PM",
+    "magnitude": "2.9",
+    "location": "048km N 65Â° W of Babuyan Island (Calayan) (Cagayan)"
+  },
+  {
     "time": "01 November 2025 - 01:24 PM",
     "magnitude": "2.3",
     "location": "016km N 67Â° E of City Of Bogo (Cebu)"
@@ -8,45 +48,5 @@
     "time": "01 November 2025 - 01:06 PM",
     "magnitude": "2.9",
     "location": "013km N 49Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "01 November 2025 - 12:49 PM",
-    "magnitude": "3.2",
-    "location": "167km S 52Â° E of Tarragona (Davao Oriental)"
-  },
-  {
-    "time": "01 November 2025 - 12:29 PM",
-    "magnitude": "3.0",
-    "location": "115km S 49Â° E of Tarragona (Davao Oriental)"
-  },
-  {
-    "time": "01 November 2025 - 12:05 PM",
-    "magnitude": "3.6",
-    "location": "154km S 51Â° E of Tarragona (Davao Oriental)"
-  },
-  {
-    "time": "01 November 2025 - 12:03 PM",
-    "magnitude": "3.6",
-    "location": "134km S 47Â° E of Tarragona (Davao Oriental)"
-  },
-  {
-    "time": "01 November 2025 - 11:55 AM",
-    "magnitude": "1.8",
-    "location": "014km N 24Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "01 November 2025 - 11:50 AM",
-    "magnitude": "1.5",
-    "location": "010km N 24Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "01 November 2025 - 11:44 AM",
-    "magnitude": "1.9",
-    "location": "032km N 38Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "01 November 2025 - 11:31 AM",
-    "magnitude": "1.8",
-    "location": "028km N 40Â° E of City Of Bogo (Cebu)"
   }
 ]
