@@ -1,5 +1,35 @@
 [
   {
+    "time": "01 November 2025 - 11:31 AM",
+    "magnitude": "1.8",
+    "location": "028km N 40Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "01 November 2025 - 11:15 AM",
+    "magnitude": "1.7",
+    "location": "004km N 52Â° W of Anda (Bohol)"
+  },
+  {
+    "time": "01 November 2025 - 11:01 AM",
+    "magnitude": "3.0",
+    "location": "084km N 89Â° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "time": "01 November 2025 - 10:23 AM",
+    "magnitude": "3.2",
+    "location": "126km S 43Â° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "time": "01 November 2025 - 10:02 AM",
+    "magnitude": "1.5",
+    "location": "019km S 61Â° E of Looc (Occidental Mindoro)"
+  },
+  {
+    "time": "01 November 2025 - 09:38 AM",
+    "magnitude": "1.9",
+    "location": "005km N 62Â° E of City Of Bogo (Cebu)"
+  },
+  {
     "time": "01 November 2025 - 09:36 AM",
     "magnitude": "2.1",
     "location": "000km N 63Â° W of City Of Bogo (Cebu)"
@@ -18,35 +48,5 @@
     "time": "01 November 2025 - 08:59 AM",
     "magnitude": "1.6",
     "location": "040km N 38Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "01 November 2025 - 08:49 AM",
-    "magnitude": "4.2",
-    "location": "038km N 42Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "01 November 2025 - 08:33 AM",
-    "magnitude": "1.4",
-    "location": "009km N 32Â° W of Abra De Ilog (Occidental Mindoro)"
-  },
-  {
-    "time": "01 November 2025 - 08:24 AM",
-    "magnitude": "2.4",
-    "location": "016km S 08Â° W of General Luna (Surigao Del Norte)"
-  },
-  {
-    "time": "01 November 2025 - 07:47 AM",
-    "magnitude": "2.2",
-    "location": "017km S 29Â° E of General Luna (Surigao Del Norte)"
-  },
-  {
-    "time": "01 November 2025 - 07:43 AM",
-    "magnitude": "3.4",
-    "location": "137km S 48Â° E of Tarragona (Davao Oriental)"
-  },
-  {
-    "time": "01 November 2025 - 07:39 AM",
-    "magnitude": "2.2",
-    "location": "025km N 61Â° E of Cagwait (Surigao Del Sur)"
   }
 ]
