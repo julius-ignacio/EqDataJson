@@ -1,52 +1,52 @@
 [
   {
-    "time": "02 November 2025 - 05:06 AM",
-    "magnitude": "2.9",
-    "location": "071km S 45Â° E of Tarragona (Davao Oriental)"
-  },
-  {
-    "time": "02 November 2025 - 04:21 AM",
-    "magnitude": "2.3",
-    "location": "091km S 40Â° E of Tarragona (Davao Oriental)"
-  },
-  {
-    "time": "02 November 2025 - 03:48 AM",
-    "magnitude": "2.0",
-    "location": "015km S 08Â° E of San Andres (Quezon)"
-  },
-  {
-    "time": "02 November 2025 - 03:42 AM",
-    "magnitude": "2.3",
-    "location": "027km N 59Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "02 November 2025 - 03:28 AM",
-    "magnitude": "1.5",
-    "location": "001km S 04Â° E of Baras (Catanduanes)"
-  },
-  {
-    "time": "02 November 2025 - 03:12 AM",
+    "time": "02 November 2025 - 09:20 AM",
     "magnitude": "2.5",
-    "location": "012km S 49Â° W of San Francisco (Agusan Del Sur)"
+    "location": "009km S 87Â° E of City Of Bogo (Cebu)"
   },
   {
-    "time": "02 November 2025 - 02:58 AM",
-    "magnitude": "2.4",
-    "location": "023km N 79Â° W of Dinapigue (Isabela)"
+    "time": "02 November 2025 - 09:12 AM",
+    "magnitude": "2.5",
+    "location": "051km S 85Â° E of Manay (Davao Oriental)"
   },
   {
-    "time": "02 November 2025 - 02:55 AM",
+    "time": "02 November 2025 - 07:43 AM",
+    "magnitude": "3.0",
+    "location": "134km S 50Â° E of Governor Generoso (Davao Oriental)"
+  },
+  {
+    "time": "02 November 2025 - 07:42 AM",
+    "magnitude": "3.1",
+    "location": "103km S 57Â° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "time": "02 November 2025 - 07:22 AM",
     "magnitude": "2.0",
-    "location": "015km S 34Â° W of City Of Bogo (Cebu)"
+    "location": "016km N 49Â° E of City Of Bogo (Cebu)"
   },
   {
-    "time": "02 November 2025 - 02:42 AM",
-    "magnitude": "2.4",
-    "location": "052km S 29Â° E of Tarragona (Davao Oriental)"
+    "time": "02 November 2025 - 06:42 AM",
+    "magnitude": "3.6",
+    "location": "201km S 70Â° E of Jose Abad Santos (Davao Occidental)"
   },
   {
-    "time": "02 November 2025 - 02:41 AM",
-    "magnitude": "2.3",
-    "location": "037km S 63Â° E of Governor Generoso (Davao Oriental)"
+    "time": "02 November 2025 - 06:17 AM",
+    "magnitude": "3.4",
+    "location": "136km S 47Â° E of Tarragona (Davao Oriental)"
+  },
+  {
+    "time": "02 November 2025 - 06:09 AM",
+    "magnitude": "1.4",
+    "location": "018km N 61Â° W of Calatagan (Batangas)"
+  },
+  {
+    "time": "02 November 2025 - 06:04 AM",
+    "magnitude": "1.8",
+    "location": "014km S 11Â° W of Calatagan (Batangas)"
+  },
+  {
+    "time": "02 November 2025 - 05:38 AM",
+    "magnitude": "2.8",
+    "location": "139km S 51Â° E of Tarragona (Davao Oriental)"
   }
 ]
