@@ -1,52 +1,52 @@
 [
   {
-    "time": "02 November 2025 - 10:38 PM",
-    "magnitude": "1.4",
-    "location": "021km N 53Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "02 November 2025 - 10:36 PM",
-    "magnitude": "2.7",
-    "location": "005km N 02Â° W of Pinamungajan (Cebu)"
-  },
-  {
-    "time": "02 November 2025 - 10:31 PM",
-    "magnitude": "2.2",
-    "location": "006km S 54Â° E of City Of Cagayan De Oro (Misamis Oriental)"
-  },
-  {
-    "time": "02 November 2025 - 10:06 PM",
+    "time": "03 November 2025 - 02:17 AM",
     "magnitude": "2.6",
-    "location": "026km N 70Â° W of Burgos (Ilocos Norte)"
+    "location": "017km N 08Â° E of Hinatuan (Surigao Del Sur)"
   },
   {
-    "time": "02 November 2025 - 10:03 PM",
+    "time": "03 November 2025 - 02:17 AM",
+    "magnitude": "2.6",
+    "location": "017km N 08Â° E of Hinatuan (Surigao Del Sur)"
+  },
+  {
+    "time": "03 November 2025 - 02:12 AM",
+    "magnitude": "1.5",
+    "location": "006km N 12Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "03 November 2025 - 01:48 AM",
+    "magnitude": "2.3",
+    "location": "003km S 65Â° E of Pinamungajan (Cebu)"
+  },
+  {
+    "time": "03 November 2025 - 01:47 AM",
     "magnitude": "1.6",
-    "location": "045km N 58Â° E of Hinatuan (Surigao Del Sur)"
+    "location": "015km N 63Â° E of City Of Bogo (Cebu)"
   },
   {
-    "time": "02 November 2025 - 10:02 PM",
+    "time": "03 November 2025 - 01:33 AM",
+    "magnitude": "2.2",
+    "location": "054km S 37Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "03 November 2025 - 01:32 AM",
     "magnitude": "2.0",
-    "location": "018km S 37Â° E of General Luna (Surigao Del Norte)"
+    "location": "077km N 17Â° W of Busuanga (Palawan)"
   },
   {
-    "time": "02 November 2025 - 08:52 PM",
-    "magnitude": "3.4",
-    "location": "139km S 41Â° E of Manay (Davao Oriental)"
+    "time": "03 November 2025 - 01:32 AM",
+    "magnitude": "1.6",
+    "location": "022km S 01Â° W of General Luna (Surigao Del Norte)"
   },
   {
-    "time": "02 November 2025 - 08:43 PM",
-    "magnitude": "1.4",
-    "location": "010km N 18Â° E of Abra De Ilog (Occidental Mindoro)"
+    "time": "03 November 2025 - 01:30 AM",
+    "magnitude": "1.3",
+    "location": "014km S 25Â° W of City Of Tabuk (Kalinga)"
   },
   {
-    "time": "02 November 2025 - 08:28 PM",
-    "magnitude": "3.1",
-    "location": "075km N 70Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "02 November 2025 - 08:07 PM",
-    "magnitude": "2.6",
-    "location": "014km S 28Â° W of Madrid (Surigao Del Sur)"
+    "time": "03 November 2025 - 01:16 AM",
+    "magnitude": "2.5",
+    "location": "016km N 23Â° E of Paluan (Occidental Mindoro)"
   }
 ]
