@@ -1,52 +1,52 @@
 [
   {
-    "time": "03 November 2025 - 04:19 AM",
+    "time": "03 November 2025 - 09:14 AM",
+    "magnitude": "1.4",
+    "location": "013km S 50Â° E of Socorro (Surigao Del Norte)"
+  },
+  {
+    "time": "03 November 2025 - 08:04 AM",
+    "magnitude": "1.9",
+    "location": "037km N 40Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "03 November 2025 - 07:53 AM",
+    "magnitude": "2.0",
+    "location": "031km N 49Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "03 November 2025 - 07:33 AM",
     "magnitude": "2.1",
-    "location": "009km N 46Â° E of City Of Bogo (Cebu)"
+    "location": "015km S 34Â° W of City Of Bogo (Cebu)"
   },
   {
-    "time": "03 November 2025 - 04:09 AM",
-    "magnitude": "2.9",
-    "location": "031km S 81Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "03 November 2025 - 04:04 AM",
-    "magnitude": "1.8",
-    "location": "009km N 20Â° E of Sogod (Southern Leyte)"
-  },
-  {
-    "time": "03 November 2025 - 04:00 AM",
-    "magnitude": "2.3",
-    "location": "024km N 53Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
-  },
-  {
-    "time": "03 November 2025 - 03:54 AM",
-    "magnitude": "2.4",
-    "location": "051km N 65Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "03 November 2025 - 03:06 AM",
-    "magnitude": "5.5",
-    "location": "016km S 31Â° E of Candoni (Negros Occidental)"
-  },
-  {
-    "time": "03 November 2025 - 02:26 AM",
-    "magnitude": "2.1",
-    "location": "011km N 89Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "03 November 2025 - 02:25 AM",
-    "magnitude": "1.8",
-    "location": "007km S 32Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "03 November 2025 - 02:17 AM",
+    "time": "03 November 2025 - 07:17 AM",
     "magnitude": "2.6",
-    "location": "017km N 08Â° E of Hinatuan (Surigao Del Sur)"
+    "location": "028km N 51Â° E of General Luna (Surigao Del Norte)"
   },
   {
-    "time": "03 November 2025 - 02:12 AM",
+    "time": "03 November 2025 - 06:01 AM",
+    "magnitude": "3.1",
+    "location": "013km S 32Â° W of Madrid (Surigao Del Sur)"
+  },
+  {
+    "time": "03 November 2025 - 05:58 AM",
     "magnitude": "1.5",
-    "location": "006km N 12Â° W of City Of Bogo (Cebu)"
+    "location": "026km N 62Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "03 November 2025 - 05:41 AM",
+    "magnitude": "2.8",
+    "location": "086km S 83Â° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "time": "03 November 2025 - 05:40 AM",
+    "magnitude": "2.8",
+    "location": "021km N 40Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "03 November 2025 - 05:20 AM",
+    "magnitude": "3.6",
+    "location": "087km S 58Â° E of Manay (Davao Oriental)"
   }
 ]
