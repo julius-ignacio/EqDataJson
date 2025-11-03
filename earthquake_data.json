@@ -1,5 +1,35 @@
 [
   {
+    "time": "04 November 2025 - 05:01 AM",
+    "magnitude": "3.0",
+    "location": "014km S 73Â° E of General Luna (Surigao Del Norte)"
+  },
+  {
+    "time": "04 November 2025 - 03:50 AM",
+    "magnitude": "1.4",
+    "location": "017km S 10Â° W of Candoni (Negros Occidental)"
+  },
+  {
+    "time": "04 November 2025 - 03:22 AM",
+    "magnitude": "3.3",
+    "location": "033km S 46Â° W of Looc (Occidental Mindoro)"
+  },
+  {
+    "time": "04 November 2025 - 03:21 AM",
+    "magnitude": "2.6",
+    "location": "053km N 73Â° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "time": "04 November 2025 - 02:51 AM",
+    "magnitude": "3.0",
+    "location": "015km N 16Â° E of San Policarpo (Eastern Samar)"
+  },
+  {
+    "time": "04 November 2025 - 02:43 AM",
+    "magnitude": "3.4",
+    "location": "048km S 06Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
     "time": "03 November 2025 - 11:07 PM",
     "magnitude": "1.5",
     "location": "013km N 57Â° W of City Of Bogo (Cebu)"
@@ -18,35 +48,5 @@
     "time": "03 November 2025 - 09:59 PM",
     "magnitude": "2.9",
     "location": "038km N 40Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "03 November 2025 - 07:20 PM",
-    "magnitude": "3.4",
-    "location": "010km S 46Â° W of Abuyog (Leyte)"
-  },
-  {
-    "time": "03 November 2025 - 06:47 PM",
-    "magnitude": "2.1",
-    "location": "011km N 70Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "03 November 2025 - 06:14 PM",
-    "magnitude": "2.9",
-    "location": "008km N 75Â° E of Catmon (Cebu)"
-  },
-  {
-    "time": "03 November 2025 - 06:11 PM",
-    "magnitude": "2.7",
-    "location": "004km S 47Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "03 November 2025 - 06:04 PM",
-    "magnitude": "2.3",
-    "location": "014km S 26Â° E of General Luna (Surigao Del Norte)"
-  },
-  {
-    "time": "03 November 2025 - 06:01 PM",
-    "magnitude": "2.9",
-    "location": "007km S 79Â° W of Rosario (Agusan Del Sur)"
   }
 ]
