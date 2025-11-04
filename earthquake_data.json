@@ -1,5 +1,40 @@
 [
   {
+    "time": "04 November 2025 - 10:30 PM",
+    "magnitude": "4.1",
+    "location": "009km N 61Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "time": "04 November 2025 - 10:17 PM",
+    "magnitude": "1.9",
+    "location": "018km S 44Â° W of San Luis (Agusan Del Sur)"
+  },
+  {
+    "time": "04 November 2025 - 10:08 PM",
+    "magnitude": "2.6",
+    "location": "034km N 81Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "04 November 2025 - 09:41 PM",
+    "magnitude": "1.6",
+    "location": "033km S 02Â° W of Balangiga (Eastern Samar)"
+  },
+  {
+    "time": "04 November 2025 - 09:22 PM",
+    "magnitude": "2.4",
+    "location": "014km S 24Â° E of General Luna (Surigao Del Norte)"
+  },
+  {
+    "time": "04 November 2025 - 09:15 PM",
+    "magnitude": "3.8",
+    "location": "042km N 69Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "04 November 2025 - 08:48 PM",
+    "magnitude": "3.4",
+    "location": "075km S 35Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
     "time": "04 November 2025 - 08:12 PM",
     "magnitude": "1.8",
     "location": "004km South of City Of Victorias (Negros Occidental)"
@@ -13,40 +48,5 @@
     "time": "04 November 2025 - 07:11 PM",
     "magnitude": "2.4",
     "location": "009km S 64Â° E of Maddela (Quirino)"
-  },
-  {
-    "time": "04 November 2025 - 06:59 PM",
-    "magnitude": "2.1",
-    "location": "009km S 53Â° W of Tabango (Leyte)"
-  },
-  {
-    "time": "04 November 2025 - 06:56 PM",
-    "magnitude": "2.2",
-    "location": "014km S 27Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "04 November 2025 - 06:24 PM",
-    "magnitude": "3.8",
-    "location": "027km N 40Â° E of Bayabas (Surigao Del Sur)"
-  },
-  {
-    "time": "04 November 2025 - 04:26 PM",
-    "magnitude": "2.1",
-    "location": "012km S 72Â° E of Cateel (Davao Oriental)"
-  },
-  {
-    "time": "04 November 2025 - 03:47 PM",
-    "magnitude": "2.4",
-    "location": "037km N 30Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "04 November 2025 - 03:33 PM",
-    "magnitude": "2.5",
-    "location": "045km N 86Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "04 November 2025 - 01:40 PM",
-    "magnitude": "2.2",
-    "location": "014km N 62Â° W of Marihatag (Surigao Del Sur)"
   }
 ]
