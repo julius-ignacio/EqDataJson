@@ -1,5 +1,20 @@
 [
   {
+    "time": "04 November 2025 - 04:26 PM",
+    "magnitude": "2.1",
+    "location": "012km S 72Â° E of Cateel (Davao Oriental)"
+  },
+  {
+    "time": "04 November 2025 - 03:47 PM",
+    "magnitude": "2.4",
+    "location": "037km N 30Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "04 November 2025 - 03:33 PM",
+    "magnitude": "2.5",
+    "location": "045km N 86Â° E of Manay (Davao Oriental)"
+  },
+  {
     "time": "04 November 2025 - 01:40 PM",
     "magnitude": "2.2",
     "location": "014km N 62Â° W of Marihatag (Surigao Del Sur)"
@@ -33,20 +48,5 @@
     "time": "04 November 2025 - 09:31 AM",
     "magnitude": "2.7",
     "location": "043km S 87Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "04 November 2025 - 08:11 AM",
-    "magnitude": "2.1",
-    "location": "038km S 46Â° W of Hinoba-an (Negros Occidental)"
-  },
-  {
-    "time": "04 November 2025 - 06:54 AM",
-    "magnitude": "2.0",
-    "location": "012km S 59Â° W of Loon (Bohol)"
-  },
-  {
-    "time": "04 November 2025 - 05:48 AM",
-    "magnitude": "1.5",
-    "location": "013km S 42Â° E of Cagwait (Surigao Del Sur)"
   }
 ]
