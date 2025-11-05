@@ -1,5 +1,10 @@
 [
   {
+    "time": "05 November 2025 - 03:57 PM",
+    "magnitude": "2.5",
+    "location": "033km N 30Â° E of Manay (Davao Oriental)"
+  },
+  {
     "time": "05 November 2025 - 01:56 PM",
     "magnitude": "2.0",
     "location": "010km S 49Â° W of Ragay (Camarines Sur)"
@@ -43,10 +48,5 @@
     "time": "05 November 2025 - 08:09 AM",
     "magnitude": "1.9",
     "location": "007km S 85Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "05 November 2025 - 06:46 AM",
-    "magnitude": "2.6",
-    "location": "062km S 46Â° W of San Antonio (Zambales)"
   }
 ]
