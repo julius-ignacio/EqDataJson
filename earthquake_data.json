@@ -1,5 +1,15 @@
 [
   {
+    "time": "05 November 2025 - 01:56 PM",
+    "magnitude": "2.0",
+    "location": "010km S 49Â° W of Ragay (Camarines Sur)"
+  },
+  {
+    "time": "05 November 2025 - 12:40 PM",
+    "magnitude": "2.2",
+    "location": "019km S 72Â° W of City Of Bogo (Cebu)"
+  },
+  {
     "time": "05 November 2025 - 11:03 AM",
     "magnitude": "1.5",
     "location": "008km N 76Â° E of City Of Bogo (Cebu)"
@@ -38,15 +48,5 @@
     "time": "05 November 2025 - 06:46 AM",
     "magnitude": "2.6",
     "location": "062km S 46Â° W of San Antonio (Zambales)"
-  },
-  {
-    "time": "05 November 2025 - 06:28 AM",
-    "magnitude": "1.9",
-    "location": "015km S 45Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "05 November 2025 - 06:26 AM",
-    "magnitude": "1.7",
-    "location": "014km S 86Â° E of Lingig (Surigao Del Sur)"
   }
 ]
