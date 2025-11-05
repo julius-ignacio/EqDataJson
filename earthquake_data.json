@@ -1,5 +1,30 @@
 [
   {
+    "time": "06 November 2025 - 04:34 AM",
+    "magnitude": "2.3",
+    "location": "011km S 12Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "06 November 2025 - 04:25 AM",
+    "magnitude": "2.3",
+    "location": "013km S 86Â° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "time": "06 November 2025 - 04:22 AM",
+    "magnitude": "4.3",
+    "location": "027km N 06Â° W of Burgos (Surigao Del Norte)"
+  },
+  {
+    "time": "06 November 2025 - 03:49 AM",
+    "magnitude": "1.8",
+    "location": "018km N 30Â° W of Abra De Ilog (Occidental Mindoro)"
+  },
+  {
+    "time": "06 November 2025 - 03:40 AM",
+    "magnitude": "2.3",
+    "location": "022km S 33Â° W of City Of Bogo (Cebu)"
+  },
+  {
     "time": "06 November 2025 - 02:06 AM",
     "magnitude": "3.5",
     "location": "092km S 88Â° E of Baganga (Davao Oriental)"
@@ -23,30 +48,5 @@
     "time": "06 November 2025 - 01:00 AM",
     "magnitude": "3.1",
     "location": "053km N 15Â° W of Pandan (Catanduanes)"
-  },
-  {
-    "time": "06 November 2025 - 12:38 AM",
-    "magnitude": "4.7",
-    "location": "069km S 14Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
-  },
-  {
-    "time": "06 November 2025 - 12:36 AM",
-    "magnitude": "3.0",
-    "location": "007km N 59Â° W of Taganaan (Surigao Del Norte)"
-  },
-  {
-    "time": "06 November 2025 - 12:08 AM",
-    "magnitude": "2.1",
-    "location": "015km S 32Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "05 November 2025 - 10:55 PM",
-    "magnitude": "1.9",
-    "location": "009km S 36Â° W of Bangui (Ilocos Norte)"
-  },
-  {
-    "time": "05 November 2025 - 10:35 PM",
-    "magnitude": "3.0",
-    "location": "009km N 36Â° W of City Of Bogo (Cebu)"
   }
 ]
