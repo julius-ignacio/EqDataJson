@@ -1,5 +1,45 @@
 [
   {
+    "time": "05 November 2025 - 10:55 PM",
+    "magnitude": "1.9",
+    "location": "009km S 36Â° W of Bangui (Ilocos Norte)"
+  },
+  {
+    "time": "05 November 2025 - 10:35 PM",
+    "magnitude": "3.0",
+    "location": "009km N 36Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "05 November 2025 - 10:19 PM",
+    "magnitude": "1.8",
+    "location": "005km N 75Â° E of Tubo (Abra)"
+  },
+  {
+    "time": "05 November 2025 - 09:46 PM",
+    "magnitude": "2.2",
+    "location": "006km S 40Â° W of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "time": "05 November 2025 - 09:47 PM",
+    "magnitude": "3.8",
+    "location": "012km S 45Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "05 November 2025 - 09:36 PM",
+    "magnitude": "3.4",
+    "location": "053km N 87Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "05 November 2025 - 09:11 PM",
+    "magnitude": "2.0",
+    "location": "010km N 34Â° E of Lubang (Occidental Mindoro)"
+  },
+  {
+    "time": "05 November 2025 - 08:52 PM",
+    "magnitude": "2.0",
+    "location": "009km S 89Â° E of Nagtipunan (Quirino)"
+  },
+  {
     "time": "05 November 2025 - 07:16 PM",
     "magnitude": "2.5",
     "location": "036km S 29Â° E of Uyugan (Batanes)"
@@ -8,45 +48,5 @@
     "time": "05 November 2025 - 07:09 PM",
     "magnitude": "2.1",
     "location": "036km N 05Â° W of Mondragon (Northern Samar)"
-  },
-  {
-    "time": "05 November 2025 - 06:13 PM",
-    "magnitude": "2.0",
-    "location": "016km S 17Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "05 November 2025 - 06:12 PM",
-    "magnitude": "2.3",
-    "location": "025km N 72Â° E of Bayabas (Surigao Del Sur)"
-  },
-  {
-    "time": "05 November 2025 - 06:01 PM",
-    "magnitude": "1.9",
-    "location": "004km N 61Â° E of Moises Padilla (Negros Occidental)"
-  },
-  {
-    "time": "05 November 2025 - 05:27 PM",
-    "magnitude": "1.6",
-    "location": "015km S 39Â° W of Calatagan (Batangas)"
-  },
-  {
-    "time": "05 November 2025 - 03:57 PM",
-    "magnitude": "2.5",
-    "location": "033km N 30Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "05 November 2025 - 01:56 PM",
-    "magnitude": "2.0",
-    "location": "010km S 49Â° W of Ragay (Camarines Sur)"
-  },
-  {
-    "time": "05 November 2025 - 12:40 PM",
-    "magnitude": "2.2",
-    "location": "019km S 72Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "05 November 2025 - 11:03 AM",
-    "magnitude": "1.5",
-    "location": "008km N 76Â° E of City Of Bogo (Cebu)"
   }
 ]
