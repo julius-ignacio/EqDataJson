@@ -1,5 +1,30 @@
 [
   {
+    "time": "05 November 2025 - 11:03 AM",
+    "magnitude": "1.5",
+    "location": "008km N 76Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "05 November 2025 - 10:54 AM",
+    "magnitude": "2.1",
+    "location": "006km S 17Â° E of Lobo (Batangas)"
+  },
+  {
+    "time": "05 November 2025 - 10:22 AM",
+    "magnitude": "4.1",
+    "location": "090km S 80Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "05 November 2025 - 10:00 AM",
+    "magnitude": "2.7",
+    "location": "010km S 31Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "05 November 2025 - 09:58 AM",
+    "magnitude": "1.9",
+    "location": "002km N 60Â° W of Tingloy (Batangas)"
+  },
+  {
     "time": "05 November 2025 - 08:48 AM",
     "magnitude": "3.0",
     "location": "029km N 08Â° E of Manay (Davao Oriental)"
@@ -23,30 +48,5 @@
     "time": "05 November 2025 - 06:26 AM",
     "magnitude": "1.7",
     "location": "014km S 86Â° E of Lingig (Surigao Del Sur)"
-  },
-  {
-    "time": "05 November 2025 - 05:25 AM",
-    "magnitude": "2.1",
-    "location": "006km N 37Â° E of Adams (Ilocos Norte)"
-  },
-  {
-    "time": "05 November 2025 - 05:20 AM",
-    "magnitude": "2.1",
-    "location": "036km N 77Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "05 November 2025 - 05:16 AM",
-    "magnitude": "2.7",
-    "location": "077km N 67Â° E of Bayabas (Surigao Del Sur)"
-  },
-  {
-    "time": "05 November 2025 - 05:10 AM",
-    "magnitude": "3.4",
-    "location": "031km N 75Â° E of Hernani (Eastern Samar)"
-  },
-  {
-    "time": "05 November 2025 - 05:02 AM",
-    "magnitude": "2.7",
-    "location": "016km N 51Â° E of Hernani (Eastern Samar)"
   }
 ]
