@@ -1,5 +1,45 @@
 [
   {
+    "time": "07 November 2025 - 01:50 AM",
+    "magnitude": "1.7",
+    "location": "012km S 68Â° E of Talacogon (Agusan Del Sur)"
+  },
+  {
+    "time": "07 November 2025 - 01:23 AM",
+    "magnitude": "2.3",
+    "location": "003km S 25Â° W of San Narciso (Zambales)"
+  },
+  {
+    "time": "07 November 2025 - 01:19 AM",
+    "magnitude": "2.1",
+    "location": "031km N 57Â° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "time": "07 November 2025 - 01:05 AM",
+    "magnitude": "2.3",
+    "location": "029km S 73Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "07 November 2025 - 12:40 AM",
+    "magnitude": "1.8",
+    "location": "020km S 19Â° W of San Antonio (Zambales)"
+  },
+  {
+    "time": "06 November 2025 - 11:58 PM",
+    "magnitude": "2.2",
+    "location": "016km S 85Â° E of Sablayan (Occidental Mindoro)"
+  },
+  {
+    "time": "06 November 2025 - 11:42 PM",
+    "magnitude": "3.6",
+    "location": "145km S 24Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "time": "06 November 2025 - 11:16 PM",
+    "magnitude": "2.6",
+    "location": "015km S 03Â° W of Pangutaran (Sulu)"
+  },
+  {
     "time": "06 November 2025 - 11:14 PM",
     "magnitude": "2.9",
     "location": "056km S 47Â° E of Tarragona (Davao Oriental)"
@@ -8,45 +48,5 @@
     "time": "06 November 2025 - 11:13 PM",
     "magnitude": "1.3",
     "location": "005km S 26Â° E of Gutalac (Zamboanga Del Norte)"
-  },
-  {
-    "time": "06 November 2025 - 10:51 PM",
-    "magnitude": "2.5",
-    "location": "009km N 28Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "06 November 2025 - 10:27 PM",
-    "magnitude": "2.6",
-    "location": "006km N 27Â° W of Oras (Eastern Samar)"
-  },
-  {
-    "time": "06 November 2025 - 10:23 PM",
-    "magnitude": "1.8",
-    "location": "005km S 01Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "06 November 2025 - 10:23 PM",
-    "magnitude": "1.4",
-    "location": "012km S 14Â° E of General Luna (Surigao Del Norte)"
-  },
-  {
-    "time": "06 November 2025 - 10:15 PM",
-    "magnitude": "2.2",
-    "location": "054km S 44Â° E of Governor Generoso (Davao Oriental)"
-  },
-  {
-    "time": "06 November 2025 - 09:45 PM",
-    "magnitude": "2.5",
-    "location": "005km N 54Â° W of Oras (Eastern Samar)"
-  },
-  {
-    "time": "06 November 2025 - 09:38 PM",
-    "magnitude": "1.3",
-    "location": "019km S 01Â° W of General Luna (Surigao Del Norte)"
-  },
-  {
-    "time": "06 November 2025 - 09:25 PM",
-    "magnitude": "2.6",
-    "location": "088km S 44Â° E of Tarragona (Davao Oriental)"
   }
 ]
