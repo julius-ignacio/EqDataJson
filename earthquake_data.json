@@ -1,5 +1,20 @@
 [
   {
+    "time": "06 November 2025 - 10:53 AM",
+    "magnitude": "1.9",
+    "location": "015km N 76Â° E of Candelaria (Zambales)"
+  },
+  {
+    "time": "06 November 2025 - 10:47 AM",
+    "magnitude": "2.6",
+    "location": "013km S 02Â° E of Morong (Bataan)"
+  },
+  {
+    "time": "06 November 2025 - 10:11 AM",
+    "magnitude": "2.7",
+    "location": "047km N 21Â° W of Liloy (Zamboanga Del Norte)"
+  },
+  {
     "time": "06 November 2025 - 06:36 AM",
     "magnitude": "3.5",
     "location": "011km N 54Â° W of City Of Bogo (Cebu)"
@@ -33,20 +48,5 @@
     "time": "06 November 2025 - 04:22 AM",
     "magnitude": "4.3",
     "location": "027km N 06Â° W of Burgos (Surigao Del Norte)"
-  },
-  {
-    "time": "06 November 2025 - 03:49 AM",
-    "magnitude": "1.8",
-    "location": "018km N 30Â° W of Abra De Ilog (Occidental Mindoro)"
-  },
-  {
-    "time": "06 November 2025 - 03:40 AM",
-    "magnitude": "2.3",
-    "location": "022km S 33Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "06 November 2025 - 02:06 AM",
-    "magnitude": "3.5",
-    "location": "092km S 88Â° E of Baganga (Davao Oriental)"
   }
 ]
