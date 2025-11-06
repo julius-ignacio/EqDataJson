@@ -1,5 +1,20 @@
 [
   {
+    "time": "06 November 2025 - 01:44 PM",
+    "magnitude": "2.1",
+    "location": "063km S 21Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "06 November 2025 - 01:09 PM",
+    "magnitude": "1.4",
+    "location": "011km N 61Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "06 November 2025 - 12:35 PM",
+    "magnitude": "2.7",
+    "location": "022km S 24Â° W of General Luna (Surigao Del Norte)"
+  },
+  {
     "time": "06 November 2025 - 10:53 AM",
     "magnitude": "1.9",
     "location": "015km N 76Â° E of Candelaria (Zambales)"
@@ -33,20 +48,5 @@
     "time": "06 November 2025 - 05:33 AM",
     "magnitude": "1.6",
     "location": "022km N 21Â° E of Magsaysay (Palawan)"
-  },
-  {
-    "time": "06 November 2025 - 04:34 AM",
-    "magnitude": "2.3",
-    "location": "011km S 12Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "06 November 2025 - 04:25 AM",
-    "magnitude": "2.3",
-    "location": "013km S 86Â° E of Cagwait (Surigao Del Sur)"
-  },
-  {
-    "time": "06 November 2025 - 04:22 AM",
-    "magnitude": "4.3",
-    "location": "027km N 06Â° W of Burgos (Surigao Del Norte)"
   }
 ]
