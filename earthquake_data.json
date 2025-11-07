@@ -1,5 +1,40 @@
 [
   {
+    "time": "07 November 2025 - 05:10 PM",
+    "magnitude": "1.6",
+    "location": "013km S 28Â° E of Baler (Aurora)"
+  },
+  {
+    "time": "07 November 2025 - 03:47 PM",
+    "magnitude": "2.7",
+    "location": "019km N 49Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "07 November 2025 - 03:45 PM",
+    "magnitude": "1.9",
+    "location": "012km N 76Â° W of San Miguel (Surigao Del Sur)"
+  },
+  {
+    "time": "07 November 2025 - 03:38 PM",
+    "magnitude": "2.7",
+    "location": "004km N 02Â° E of Dasol (Pangasinan)"
+  },
+  {
+    "time": "07 November 2025 - 03:22 PM",
+    "magnitude": "2.1",
+    "location": "006km S 76Â° E of Mabini (Pangasinan)"
+  },
+  {
+    "time": "07 November 2025 - 02:59 PM",
+    "magnitude": "4.0",
+    "location": "013km N 55Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "07 November 2025 - 02:28 PM",
+    "magnitude": "3.1",
+    "location": "106km S 42Â° E of Tarragona (Davao Oriental)"
+  },
+  {
     "time": "07 November 2025 - 02:21 PM",
     "magnitude": "1.8",
     "location": "011km N 45Â° E of Dasol (Pangasinan)"
@@ -13,40 +48,5 @@
     "time": "07 November 2025 - 02:14 PM",
     "magnitude": "3.1",
     "location": "008km N 70Â° W of Dasol (Pangasinan)"
-  },
-  {
-    "time": "07 November 2025 - 01:38 PM",
-    "magnitude": "1.7",
-    "location": "009km S 88Â° E of Mabini (Pangasinan)"
-  },
-  {
-    "time": "07 November 2025 - 01:23 PM",
-    "magnitude": "4.4",
-    "location": "007km S 84Â° W of Dasol (Pangasinan)"
-  },
-  {
-    "time": "07 November 2025 - 01:21 PM",
-    "magnitude": "2.3",
-    "location": "036km N 35Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "07 November 2025 - 01:12 PM",
-    "magnitude": "2.2",
-    "location": "014km N 79Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "07 November 2025 - 12:37 PM",
-    "magnitude": "2.2",
-    "location": "009km N 46Â° E of San Jose De Buan (Samar)"
-  },
-  {
-    "time": "07 November 2025 - 12:36 PM",
-    "magnitude": "2.2",
-    "location": "016km S 21Â° W of Tarragona (Davao Oriental)"
-  },
-  {
-    "time": "07 November 2025 - 11:51 AM",
-    "magnitude": "2.7",
-    "location": "017km S 55Â° E of Fuga Island (Aparri) (Cagayan)"
   }
 ]
