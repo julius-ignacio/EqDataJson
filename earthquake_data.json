@@ -1,52 +1,52 @@
 [
   {
+    "time": "08 November 2025 - 05:04 AM",
+    "magnitude": "2.5",
+    "location": "021km N 33Â° W of Amai Manabilang (Lanao Del Sur)"
+  },
+  {
+    "time": "08 November 2025 - 04:55 AM",
+    "magnitude": "2.0",
+    "location": "007km S 12Â° W of Miagao (Iloilo)"
+  },
+  {
+    "time": "08 November 2025 - 04:52 AM",
+    "magnitude": "2.2",
+    "location": "009km S 03Â° W of Maitum (Sarangani)"
+  },
+  {
+    "time": "08 November 2025 - 04:39 AM",
+    "magnitude": "2.9",
+    "location": "009km S 44Â° E of Santiago (Agusan Del Norte)"
+  },
+  {
+    "time": "08 November 2025 - 04:35 AM",
+    "magnitude": "1.4",
+    "location": "004km N 82Â° W of Masinloc (Zambales)"
+  },
+  {
+    "time": "08 November 2025 - 03:09 AM",
+    "magnitude": "1.5",
+    "location": "007km N 55Â° E of Dasol (Pangasinan)"
+  },
+  {
+    "time": "08 November 2025 - 02:51 AM",
+    "magnitude": "1.6",
+    "location": "012km S 53Â° W of Talacogon (Agusan Del Sur)"
+  },
+  {
+    "time": "08 November 2025 - 02:39 AM",
+    "magnitude": "2.2",
+    "location": "015km N 08Â° W of City Of Bogo (Cebu)"
+  },
+  {
     "time": "08 November 2025 - 02:22 AM",
-    "magnitude": "3.6",
-    "location": "038km N 53Â° E of Manay (Davao Oriental)"
+    "magnitude": "3.9",
+    "location": "027km N 28Â° E of Manay (Davao Oriental)"
   },
   {
     "time": "08 November 2025 - 02:14 AM",
     "magnitude": "2.5",
     "location": "011km N 17Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "08 November 2025 - 02:12 AM",
-    "magnitude": "3.2",
-    "location": "083km N 56Â° W of Burgos (Ilocos Norte)"
-  },
-  {
-    "time": "08 November 2025 - 02:10 AM",
-    "magnitude": "3.1",
-    "location": "012km N 28Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "08 November 2025 - 01:41 AM",
-    "magnitude": "2.0",
-    "location": "012km N 88Â° W of Silago (Southern Leyte)"
-  },
-  {
-    "time": "08 November 2025 - 01:38 AM",
-    "magnitude": "2.6",
-    "location": "008km S 50Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "08 November 2025 - 01:19 AM",
-    "magnitude": "2.1",
-    "location": "025km N 60Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "08 November 2025 - 01:15 AM",
-    "magnitude": "2.2",
-    "location": "014km N 08Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "08 November 2025 - 01:05 AM",
-    "magnitude": "2.4",
-    "location": "014km N 82Â° E of Dasol (Pangasinan)"
-  },
-  {
-    "time": "08 November 2025 - 01:05 AM",
-    "magnitude": "2.4",
-    "location": "014km N 82Â° E of Dasol (Pangasinan)"
   }
 ]
