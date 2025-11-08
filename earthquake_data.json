@@ -1,5 +1,30 @@
 [
   {
+    "time": "09 November 2025 - 05:00 AM",
+    "magnitude": "2.5",
+    "location": "030km S 88Â° E of Baler (Aurora)"
+  },
+  {
+    "time": "09 November 2025 - 03:40 AM",
+    "magnitude": "2.3",
+    "location": "016km N 23Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "09 November 2025 - 03:21 AM",
+    "magnitude": "2.0",
+    "location": "031km N 74Â° E of Caraga (Davao Oriental)"
+  },
+  {
+    "time": "09 November 2025 - 03:08 AM",
+    "magnitude": "3.2",
+    "location": "015km N 64Â° E of General Luna (Surigao Del Norte)"
+  },
+  {
+    "time": "09 November 2025 - 03:00 AM",
+    "magnitude": "2.3",
+    "location": "043km S 69Â° E of Manay (Davao Oriental)"
+  },
+  {
     "time": "09 November 2025 - 01:54 AM",
     "magnitude": "2.6",
     "location": "015km S 11Â° W of Bangui (Ilocos Norte)"
@@ -23,30 +48,5 @@
     "time": "08 November 2025 - 11:35 PM",
     "magnitude": "2.1",
     "location": "019km S 56Â° W of Calatagan (Batangas)"
-  },
-  {
-    "time": "08 November 2025 - 10:04 PM",
-    "magnitude": "3.5",
-    "location": "057km S 26Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "08 November 2025 - 09:50 PM",
-    "magnitude": "2.3",
-    "location": "015km S 33Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "08 November 2025 - 09:02 PM",
-    "magnitude": "2.1",
-    "location": "019km N 35Â° E of Cortes (Surigao Del Sur)"
-  },
-  {
-    "time": "08 November 2025 - 08:55 PM",
-    "magnitude": "2.5",
-    "location": "011km S 40Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "08 November 2025 - 08:45 PM",
-    "magnitude": "2.7",
-    "location": "010km S 75Â° W of Pamplona (Cagayan)"
   }
 ]
