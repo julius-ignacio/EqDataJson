@@ -1,5 +1,30 @@
 [
   {
+    "time": "09 November 2025 - 01:54 AM",
+    "magnitude": "2.6",
+    "location": "015km S 11Â° W of Bangui (Ilocos Norte)"
+  },
+  {
+    "time": "09 November 2025 - 01:40 AM",
+    "magnitude": "2.8",
+    "location": "006km S 53Â° W of Kiblawan (Davao Del Sur)"
+  },
+  {
+    "time": "09 November 2025 - 12:39 AM",
+    "magnitude": "2.2",
+    "location": "027km N 16Â° W of City Of Sipalay (Negros Occidental)"
+  },
+  {
+    "time": "09 November 2025 - 12:16 AM",
+    "magnitude": "3.1",
+    "location": "079km S 31Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "time": "08 November 2025 - 11:35 PM",
+    "magnitude": "2.1",
+    "location": "019km S 56Â° W of Calatagan (Batangas)"
+  },
+  {
     "time": "08 November 2025 - 10:04 PM",
     "magnitude": "3.5",
     "location": "057km S 26Â° E of Manay (Davao Oriental)"
@@ -23,30 +48,5 @@
     "time": "08 November 2025 - 08:45 PM",
     "magnitude": "2.7",
     "location": "010km S 75Â° W of Pamplona (Cagayan)"
-  },
-  {
-    "time": "08 November 2025 - 08:20 PM",
-    "magnitude": "2.2",
-    "location": "015km N 89Â° E of Tarragona (Davao Oriental)"
-  },
-  {
-    "time": "08 November 2025 - 08:03 PM",
-    "magnitude": "2.0",
-    "location": "015km N 58Â° W of Cauayan (Negros Occidental)"
-  },
-  {
-    "time": "08 November 2025 - 07:08 PM",
-    "magnitude": "2.2",
-    "location": "012km S 63Â° E of Santiago (Agusan Del Norte)"
-  },
-  {
-    "time": "08 November 2025 - 06:40 PM",
-    "magnitude": "1.4",
-    "location": "018km N 54Â° W of Abra De Ilog (Occidental Mindoro)"
-  },
-  {
-    "time": "08 November 2025 - 06:16 PM",
-    "magnitude": "2.3",
-    "location": "020km S 89Â° E of Hinatuan (Surigao Del Sur)"
   }
 ]
