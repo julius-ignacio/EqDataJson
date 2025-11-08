@@ -1,5 +1,30 @@
 [
   {
+    "time": "08 November 2025 - 10:04 PM",
+    "magnitude": "3.5",
+    "location": "057km S 26Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "08 November 2025 - 09:50 PM",
+    "magnitude": "2.3",
+    "location": "015km S 33Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "08 November 2025 - 09:02 PM",
+    "magnitude": "2.1",
+    "location": "019km N 35Â° E of Cortes (Surigao Del Sur)"
+  },
+  {
+    "time": "08 November 2025 - 08:55 PM",
+    "magnitude": "2.5",
+    "location": "011km S 40Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "08 November 2025 - 08:45 PM",
+    "magnitude": "2.7",
+    "location": "010km S 75Â° W of Pamplona (Cagayan)"
+  },
+  {
     "time": "08 November 2025 - 08:20 PM",
     "magnitude": "2.2",
     "location": "015km N 89Â° E of Tarragona (Davao Oriental)"
@@ -23,30 +48,5 @@
     "time": "08 November 2025 - 06:16 PM",
     "magnitude": "2.3",
     "location": "020km S 89Â° E of Hinatuan (Surigao Del Sur)"
-  },
-  {
-    "time": "08 November 2025 - 05:43 PM",
-    "magnitude": "4.0",
-    "location": "005km N 51Â° E of Baganga (Davao Oriental)"
-  },
-  {
-    "time": "08 November 2025 - 05:01 PM",
-    "magnitude": "1.5",
-    "location": "008km S 67Â° W of Gloria (Oriental Mindoro)"
-  },
-  {
-    "time": "08 November 2025 - 04:43 PM",
-    "magnitude": "3.0",
-    "location": "088km S 76Â° E of Cagwait (Surigao Del Sur)"
-  },
-  {
-    "time": "08 November 2025 - 03:38 PM",
-    "magnitude": "2.3",
-    "location": "024km N 38Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "08 November 2025 - 02:46 PM",
-    "magnitude": "3.0",
-    "location": "006km S 57Â° W of Abuyog (Leyte)"
   }
 ]
