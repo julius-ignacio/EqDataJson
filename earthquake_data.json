@@ -1,5 +1,40 @@
 [
   {
+    "time": "10 November 2025 - 01:24 AM",
+    "magnitude": "3.3",
+    "location": "046km S 49Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "10 November 2025 - 12:47 AM",
+    "magnitude": "3.0",
+    "location": "167km S 68Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "time": "10 November 2025 - 12:36 AM",
+    "magnitude": "2.4",
+    "location": "038km S 64Â° E of Don Marcelino (Davao Occidental)"
+  },
+  {
+    "time": "10 November 2025 - 12:28 AM",
+    "magnitude": "2.5",
+    "location": "019km N 55Â° E of Tagbina (Surigao Del Sur)"
+  },
+  {
+    "time": "09 November 2025 - 11:55 PM",
+    "magnitude": "1.9",
+    "location": "011km N 08Â° W of Roseller Lim (Zamboanga Sibugay)"
+  },
+  {
+    "time": "09 November 2025 - 11:46 PM",
+    "magnitude": "1.9",
+    "location": "027km S 90Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "09 November 2025 - 11:38 PM",
+    "magnitude": "2.3",
+    "location": "015km S 06Â° E of City Of Bogo (Cebu)"
+  },
+  {
     "time": "09 November 2025 - 10:39 PM",
     "magnitude": "3.1",
     "location": "021km S 31Â° W of City Of Bogo (Cebu)"
@@ -13,40 +48,5 @@
     "time": "09 November 2025 - 09:02 PM",
     "magnitude": "3.4",
     "location": "012km S 65Â° E of Kiamba (Sarangani)"
-  },
-  {
-    "time": "09 November 2025 - 08:27 PM",
-    "magnitude": "3.5",
-    "location": "035km N 77Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "09 November 2025 - 08:19 AM",
-    "magnitude": "2.7",
-    "location": "015km S 45Â° W of City Of Canlaon (Negros Oriental)"
-  },
-  {
-    "time": "09 November 2025 - 08:05 PM",
-    "magnitude": "2.0",
-    "location": "015km N 82Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "09 November 2025 - 07:52 PM",
-    "magnitude": "3.2",
-    "location": "028km S 61Â° W of Claveria (Masbate)"
-  },
-  {
-    "time": "09 November 2025 - 03:11 PM",
-    "magnitude": "2.2",
-    "location": "010km S 58Â° W of Calatagan (Batangas)"
-  },
-  {
-    "time": "09 November 2025 - 02:31 PM",
-    "magnitude": "2.8",
-    "location": "036km N 77Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "09 November 2025 - 01:10 PM",
-    "magnitude": "2.0",
-    "location": "004km East of City Of Bogo (Cebu)"
   }
 ]
