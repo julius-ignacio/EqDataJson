@@ -1,5 +1,25 @@
 [
   {
+    "time": "09 November 2025 - 08:52 AM",
+    "magnitude": "2.3",
+    "location": "019km N 57Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "09 November 2025 - 06:55 AM",
+    "magnitude": "2.0",
+    "location": "012km N 37Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "09 November 2025 - 06:47 AM",
+    "magnitude": "2.7",
+    "location": "020km N 20Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "09 November 2025 - 05:40 AM",
+    "magnitude": "2.4",
+    "location": "031km N 46Â° E of Bayabas (Surigao Del Sur)"
+  },
+  {
     "time": "09 November 2025 - 05:00 AM",
     "magnitude": "2.5",
     "location": "030km S 88Â° E of Baler (Aurora)"
@@ -28,25 +48,5 @@
     "time": "09 November 2025 - 01:54 AM",
     "magnitude": "2.6",
     "location": "015km S 11Â° W of Bangui (Ilocos Norte)"
-  },
-  {
-    "time": "09 November 2025 - 01:40 AM",
-    "magnitude": "2.8",
-    "location": "006km S 53Â° W of Kiblawan (Davao Del Sur)"
-  },
-  {
-    "time": "09 November 2025 - 12:39 AM",
-    "magnitude": "2.2",
-    "location": "027km N 16Â° W of City Of Sipalay (Negros Occidental)"
-  },
-  {
-    "time": "09 November 2025 - 12:16 AM",
-    "magnitude": "3.1",
-    "location": "079km S 31Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental)"
-  },
-  {
-    "time": "08 November 2025 - 11:35 PM",
-    "magnitude": "2.1",
-    "location": "019km S 56Â° W of Calatagan (Batangas)"
   }
 ]
