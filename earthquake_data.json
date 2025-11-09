@@ -1,5 +1,15 @@
 [
   {
+    "time": "09 November 2025 - 11:06 AM",
+    "magnitude": "1.7",
+    "location": "026km N 76Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "09 November 2025 - 09:57 AM",
+    "magnitude": "2.2",
+    "location": "027km S 41Â° W of City Of Bogo (Cebu)"
+  },
+  {
     "time": "09 November 2025 - 08:52 AM",
     "magnitude": "2.3",
     "location": "019km N 57Â° E of City Of Bogo (Cebu)"
@@ -38,15 +48,5 @@
     "time": "09 November 2025 - 03:08 AM",
     "magnitude": "3.2",
     "location": "015km N 64Â° E of General Luna (Surigao Del Norte)"
-  },
-  {
-    "time": "09 November 2025 - 03:00 AM",
-    "magnitude": "2.3",
-    "location": "043km S 69Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "09 November 2025 - 01:54 AM",
-    "magnitude": "2.6",
-    "location": "015km S 11Â° W of Bangui (Ilocos Norte)"
   }
 ]
