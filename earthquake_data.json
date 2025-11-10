@@ -1,5 +1,10 @@
 [
   {
+    "time": "10 November 2025 - 12:09 PM",
+    "magnitude": "2.0",
+    "location": "030km N 62Â° E of Santa Maria (Davao Occidental)"
+  },
+  {
     "time": "10 November 2025 - 11:00 AM",
     "magnitude": "2.5",
     "location": "003km S 57Â° E of Hernani (Eastern Samar)"
@@ -43,10 +48,5 @@
     "time": "10 November 2025 - 02:57 AM",
     "magnitude": "3.9",
     "location": "014km S 17Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "10 November 2025 - 02:43 AM",
-    "magnitude": "2.3",
-    "location": "002km S 05Â° E of City Of Tagum (Davao Del Norte)"
   }
 ]
