@@ -1,5 +1,15 @@
 [
   {
+    "time": "10 November 2025 - 09:14 PM",
+    "magnitude": "2.1",
+    "location": "015km S 03Â° W of General Luna (Surigao Del Norte)"
+  },
+  {
+    "time": "10 November 2025 - 09:02 PM",
+    "magnitude": "2.4",
+    "location": "003km N 72Â° W of Baganga (Davao Oriental)"
+  },
+  {
     "time": "10 November 2025 - 07:37 PM",
     "magnitude": "2.5",
     "location": "014km N 78Â° E of City Of Bogo (Cebu)"
@@ -38,15 +48,5 @@
     "time": "10 November 2025 - 03:16 PM",
     "magnitude": "2.4",
     "location": "055km S 22Â° E of Governor Generoso (Davao Oriental)"
-  },
-  {
-    "time": "10 November 2025 - 03:11 PM",
-    "magnitude": "2.9",
-    "location": "007km N 52Â° W of Taft (Eastern Samar)"
-  },
-  {
-    "time": "10 November 2025 - 03:09 PM",
-    "magnitude": "2.1",
-    "location": "008km N 40Â° E of Cagwait (Surigao Del Sur)"
   }
 ]
