@@ -1,5 +1,10 @@
 [
   {
+    "time": "10 November 2025 - 11:00 AM",
+    "magnitude": "2.5",
+    "location": "003km S 57Â° E of Hernani (Eastern Samar)"
+  },
+  {
     "time": "10 November 2025 - 09:16 AM",
     "magnitude": "3.2",
     "location": "012km S 57Â° E of Talacogon (Agusan Del Sur)"
@@ -43,10 +48,5 @@
     "time": "10 November 2025 - 02:43 AM",
     "magnitude": "2.3",
     "location": "002km S 05Â° E of City Of Tagum (Davao Del Norte)"
-  },
-  {
-    "time": "10 November 2025 - 02:41 AM",
-    "magnitude": "2.5",
-    "location": "007km N 05Â° E of Cagwait (Surigao Del Sur)"
   }
 ]
