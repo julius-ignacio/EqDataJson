@@ -1,5 +1,10 @@
 [
   {
+    "time": "11 November 2025 - 11:26 AM",
+    "magnitude": "1.9",
+    "location": "015km S 34Â° E of General Luna (Surigao Del Norte)"
+  },
+  {
     "time": "11 November 2025 - 09:25 AM",
     "magnitude": "3.0",
     "location": "128km S 62Â° E of Manay (Davao Oriental)"
@@ -43,10 +48,5 @@
     "time": "11 November 2025 - 06:38 AM",
     "magnitude": "1.8",
     "location": "035km N 09Â° W of Santa Monica (Surigao Del Norte)"
-  },
-  {
-    "time": "11 November 2025 - 06:11 AM",
-    "magnitude": "2.2",
-    "location": "006km N 32Â° E of Tabuelan (Cebu)"
   }
 ]
