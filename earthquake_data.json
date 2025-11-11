@@ -1,5 +1,25 @@
 [
   {
+    "time": "11 November 2025 - 02:04 PM",
+    "magnitude": "1.9",
+    "location": "009km N 75Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "11 November 2025 - 12:38 PM",
+    "magnitude": "2.5",
+    "location": "010km N 42Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "11 November 2025 - 12:36 PM",
+    "magnitude": "1.6",
+    "location": "006km S 30Â° E of Veruela (Agusan Del Sur)"
+  },
+  {
+    "time": "11 November 2025 - 12:03 PM",
+    "magnitude": "2.1",
+    "location": "001km South of City Of San Carlos (Negros Occidental)"
+  },
+  {
     "time": "11 November 2025 - 11:26 AM",
     "magnitude": "1.9",
     "location": "015km S 34Â° E of General Luna (Surigao Del Norte)"
@@ -28,25 +48,5 @@
     "time": "11 November 2025 - 07:51 AM",
     "magnitude": "2.5",
     "location": "011km N 06Â° E of Monreal (Masbate)"
-  },
-  {
-    "time": "11 November 2025 - 07:40 AM",
-    "magnitude": "2.3",
-    "location": "033km S 60Â° W of Caluya (Antique)"
-  },
-  {
-    "time": "11 November 2025 - 07:20 AM",
-    "magnitude": "2.2",
-    "location": "090km S 50Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "11 November 2025 - 07:06 AM",
-    "magnitude": "2.2",
-    "location": "011km S 12Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "11 November 2025 - 06:38 AM",
-    "magnitude": "1.8",
-    "location": "035km N 09Â° W of Santa Monica (Surigao Del Norte)"
   }
 ]
