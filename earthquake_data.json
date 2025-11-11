@@ -1,8 +1,38 @@
 [
   {
-    "time": "12 November 2025 - 02:12 AM",
-    "magnitude": "1.4",
-    "location": "011km S 48Â° E of Cagdianao (Dinagat Islands)"
+    "time": "12 November 2025 - 05:03 AM",
+    "magnitude": "3.5",
+    "location": "051km N 82Â° W of Luna (La Union)"
+  },
+  {
+    "time": "12 November 2025 - 04:01 AM",
+    "magnitude": "3.1",
+    "location": "003km S 17Â° W of Biliran (Biliran)"
+  },
+  {
+    "time": "12 November 2025 - 03:51 AM",
+    "magnitude": "2.6",
+    "location": "013km N 84Â° E of Tulunan (Cotabato)"
+  },
+  {
+    "time": "12 November 2025 - 03:37 AM",
+    "magnitude": "1.6",
+    "location": "006km S 46Â° W of Tabuelan (Cebu)"
+  },
+  {
+    "time": "12 November 2025 - 03:29 AM",
+    "magnitude": "2.1",
+    "location": "005km N 76Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "12 November 2025 - 03:21 AM",
+    "magnitude": "2.9",
+    "location": "001km N 30Â° W of Hungduan (Ifugao)"
+  },
+  {
+    "time": "12 November 2025 - 02:31 AM",
+    "magnitude": "1.3",
+    "location": "060km S 23Â° W of Magsaysay (Occidental Mindoro)"
   },
   {
     "time": "12 November 2025 - 02:12 AM",
@@ -18,35 +48,5 @@
     "time": "12 November 2025 - 02:02 AM",
     "magnitude": "2.6",
     "location": "051km N 64Â° E of Cagwait (Surigao Del Sur)"
-  },
-  {
-    "time": "12 November 2025 - 01:59 AM",
-    "magnitude": "1.3",
-    "location": "031km N 85Â° W of Roxas (Oriental Mindoro)"
-  },
-  {
-    "time": "12 November 2025 - 01:05 AM",
-    "magnitude": "2.9",
-    "location": "013km N 52Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "12 November 2025 - 01:02 AM",
-    "magnitude": "2.3",
-    "location": "047km S 86Â° E of Jose Abad Santos (Davao Occidental)"
-  },
-  {
-    "time": "12 November 2025 - 12:53 AM",
-    "magnitude": "2.1",
-    "location": "028km N 55Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "12 November 2025 - 12:50 AM",
-    "magnitude": "2.0",
-    "location": "011km S 76Â° E of Pantukan (Davao De Oro)"
-  },
-  {
-    "time": "12 November 2025 - 12:48 AM",
-    "magnitude": "1.6",
-    "location": "003km N 45Â° E of M'lang (Cotabato)"
   }
 ]
