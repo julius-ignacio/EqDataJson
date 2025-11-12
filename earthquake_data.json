@@ -1,52 +1,52 @@
 [
   {
-    "time": "13 November 2025 - 01:27 AM",
-    "magnitude": "2.7",
-    "location": "009km S 89Â° W of Mansalay (Oriental Mindoro)"
+    "time": "13 November 2025 - 05:08 AM",
+    "magnitude": "2.1",
+    "location": "011km S 82Â° W of Socorro (Oriental Mindoro)"
   },
   {
-    "time": "13 November 2025 - 01:19 AM",
+    "time": "13 November 2025 - 04:49 AM",
+    "magnitude": "2.1",
+    "location": "022km N 61Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "13 November 2025 - 04:36 AM",
+    "magnitude": "2.0",
+    "location": "004km N 73Â° E of San Francisco (Southern Leyte)"
+  },
+  {
+    "time": "13 November 2025 - 04:31 AM",
+    "magnitude": "3.2",
+    "location": "006km N 49Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "13 November 2025 - 04:27 AM",
+    "magnitude": "2.2",
+    "location": "016km N 68Â° E of Kabugao (Apayao)"
+  },
+  {
+    "time": "13 November 2025 - 04:26 AM",
+    "magnitude": "2.1",
+    "location": "013km N 56Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "13 November 2025 - 04:14 AM",
+    "magnitude": "1.5",
+    "location": "005km N 37Â° E of Matuguinao (Samar)"
+  },
+  {
+    "time": "13 November 2025 - 04:06 AM",
+    "magnitude": "2.2",
+    "location": "010km S 10Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "13 November 2025 - 03:37 AM",
     "magnitude": "3.1",
-    "location": "003km S 14Â° E of Dinapigue (Isabela)"
+    "location": "006km N 76Â° W of Pasuquin (Ilocos Norte)"
   },
   {
-    "time": "13 November 2025 - 01:05 AM",
-    "magnitude": "3.4",
-    "location": "024km N 21Â° E of Pandan (Catanduanes)"
-  },
-  {
-    "time": "13 November 2025 - 12:36 AM",
-    "magnitude": "2.1",
-    "location": "017km S 12Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "13 November 2025 - 12:16 AM",
-    "magnitude": "2.4",
-    "location": "029km N 57Â° W of Cuyo (Palawan)"
-  },
-  {
-    "time": "13 November 2025 - 12:15 AM",
+    "time": "13 November 2025 - 03:33 AM",
     "magnitude": "2.7",
-    "location": "016km N 62Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "13 November 2025 - 12:10 AM",
-    "magnitude": "1.8",
-    "location": "023km S 29Â° W of Mariveles (Bataan)"
-  },
-  {
-    "time": "12 November 2025 - 11:50 PM",
-    "magnitude": "1.7",
-    "location": "010km S 86Â° E of Calatagan (Batangas)"
-  },
-  {
-    "time": "12 November 2025 - 11:45 PM",
-    "magnitude": "2.7",
-    "location": "023km N 41Â° W of Abra De Ilog (Occidental Mindoro)"
-  },
-  {
-    "time": "12 November 2025 - 10:49 PM",
-    "magnitude": "2.1",
-    "location": "017km N 12Â° E of City Of Bogo (Cebu)"
+    "location": "008km N 37Â° W of City Of Bogo (Cebu)"
   }
 ]
