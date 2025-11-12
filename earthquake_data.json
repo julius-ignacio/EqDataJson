@@ -1,5 +1,30 @@
 [
   {
+    "time": "12 November 2025 - 11:23 AM",
+    "magnitude": "2.7",
+    "location": "016km N 23Â° E of Cagwait (Surigao Del Sur)"
+  },
+  {
+    "time": "12 November 2025 - 10:51 AM",
+    "magnitude": "1.9",
+    "location": "016km N 52Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "12 November 2025 - 10:47 AM",
+    "magnitude": "1.2",
+    "location": "007km S 82Â° W of Bunawan (Agusan Del Sur)"
+  },
+  {
+    "time": "12 November 2025 - 10:34 AM",
+    "magnitude": "3.1",
+    "location": "039km S 66Â° E of Don Marcelino (Davao Occidental)"
+  },
+  {
+    "time": "12 November 2025 - 10:29 AM",
+    "magnitude": "2.6",
+    "location": "012km S 89Â° W of General Luna (Surigao Del Norte)"
+  },
+  {
     "time": "12 November 2025 - 09:18 AM",
     "magnitude": "3.2",
     "location": "041km N 48Â° E of Manay (Davao Oriental)"
@@ -23,30 +48,5 @@
     "time": "12 November 2025 - 07:52 AM",
     "magnitude": "2.6",
     "location": "015km S 18Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "12 November 2025 - 07:23 AM",
-    "magnitude": "1.7",
-    "location": "017km S 47Â° E of General Luna (Surigao Del Norte)"
-  },
-  {
-    "time": "12 November 2025 - 07:15 AM",
-    "magnitude": "1.9",
-    "location": "039km N 78Â° E of Cagwait (Surigao Del Sur)"
-  },
-  {
-    "time": "12 November 2025 - 05:53 AM",
-    "magnitude": "2.1",
-    "location": "029km N 50Â° W of Manukan (Zamboanga Del Norte)"
-  },
-  {
-    "time": "12 November 2025 - 05:37 AM",
-    "magnitude": "2.4",
-    "location": "013km S 10Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "12 November 2025 - 05:03 AM",
-    "magnitude": "3.5",
-    "location": "051km N 82Â° W of Luna (La Union)"
   }
 ]
