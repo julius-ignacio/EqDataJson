@@ -1,5 +1,35 @@
 [
   {
+    "time": "12 November 2025 - 05:02 PM",
+    "magnitude": "2.7",
+    "location": "023km S 80Â° W of Santa Catalina (Ilocos Sur)"
+  },
+  {
+    "time": "12 November 2025 - 04:54 PM",
+    "magnitude": "2.0",
+    "location": "021km S 88Â° E of Maragusan (Davao De Oro)"
+  },
+  {
+    "time": "12 November 2025 - 04:40 PM",
+    "magnitude": "3.7",
+    "location": "033km N 68Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "12 November 2025 - 04:10 PM",
+    "magnitude": "3.0",
+    "location": "065km N 89Â° E of Jose Abad Santos (Davao Occidental)"
+  },
+  {
+    "time": "12 November 2025 - 03:45 PM",
+    "magnitude": "1.9",
+    "location": "006km S 27Â° E of Gutalac (Zamboanga Del Norte)"
+  },
+  {
+    "time": "12 November 2025 - 03:23 PM",
+    "magnitude": "2.7",
+    "location": "010km N 55Â° W of City Of Bogo (Cebu)"
+  },
+  {
     "time": "12 November 2025 - 01:49 PM",
     "magnitude": "2.8",
     "location": "001km N 05Â° W of Santiago (Agusan Del Norte)"
@@ -18,35 +48,5 @@
     "time": "12 November 2025 - 12:50 PM",
     "magnitude": "1.8",
     "location": "010km S 29Â° W of Cateel (Davao Oriental)"
-  },
-  {
-    "time": "12 November 2025 - 12:27 PM",
-    "magnitude": "3.0",
-    "location": "159km S 38Â° E of Tarragona (Davao Oriental)"
-  },
-  {
-    "time": "12 November 2025 - 12:24 PM",
-    "magnitude": "2.9",
-    "location": "012km S 13Â° E of Manay (Davao Oriental)"
-  },
-  {
-    "time": "12 November 2025 - 12:19 PM",
-    "magnitude": "3.4",
-    "location": "017km N 70Â° E of Cagwait (Surigao Del Sur)"
-  },
-  {
-    "time": "12 November 2025 - 12:16 PM",
-    "magnitude": "2.9",
-    "location": "122km S 63Â° E of Jose Abad Santos (Davao Occidental)"
-  },
-  {
-    "time": "12 November 2025 - 12:13 PM",
-    "magnitude": "2.3",
-    "location": "021km N 69Â° W of Luna (La Union)"
-  },
-  {
-    "time": "12 November 2025 - 11:37 AM",
-    "magnitude": "2.0",
-    "location": "005km S 03Â° E of Victoria (Oriental Mindoro)"
   }
 ]
