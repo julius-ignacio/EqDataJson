@@ -1,5 +1,30 @@
 [
   {
+    "time": "13 November 2025 - 09:36 AM",
+    "magnitude": "1.9",
+    "location": "020km S 03Â° E of General Luna (Surigao Del Norte)"
+  },
+  {
+    "time": "13 November 2025 - 08:19 AM",
+    "magnitude": "2.2",
+    "location": "010km S 13Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "13 November 2025 - 06:20 AM",
+    "magnitude": "2.3",
+    "location": "003km N 78Â° W of Mansalay (Oriental Mindoro)"
+  },
+  {
+    "time": "13 November 2025 - 06:17 AM",
+    "magnitude": "2.5",
+    "location": "010km S 25Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "13 November 2025 - 06:09 AM",
+    "magnitude": "2.3",
+    "location": "008km S 26Â° E of City Of Bogo (Cebu)"
+  },
+  {
     "time": "13 November 2025 - 05:08 AM",
     "magnitude": "2.1",
     "location": "011km S 82Â° W of Socorro (Oriental Mindoro)"
@@ -23,30 +48,5 @@
     "time": "13 November 2025 - 04:27 AM",
     "magnitude": "2.2",
     "location": "016km N 68Â° E of Kabugao (Apayao)"
-  },
-  {
-    "time": "13 November 2025 - 04:26 AM",
-    "magnitude": "2.1",
-    "location": "013km N 56Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "13 November 2025 - 04:14 AM",
-    "magnitude": "1.5",
-    "location": "005km N 37Â° E of Matuguinao (Samar)"
-  },
-  {
-    "time": "13 November 2025 - 04:06 AM",
-    "magnitude": "2.2",
-    "location": "010km S 10Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "13 November 2025 - 03:37 AM",
-    "magnitude": "3.1",
-    "location": "006km N 76Â° W of Pasuquin (Ilocos Norte)"
-  },
-  {
-    "time": "13 November 2025 - 03:33 AM",
-    "magnitude": "2.7",
-    "location": "008km N 37Â° W of City Of Bogo (Cebu)"
   }
 ]
