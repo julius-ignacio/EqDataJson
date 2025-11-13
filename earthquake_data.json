@@ -1,5 +1,25 @@
 [
   {
+    "time": "13 November 2025 - 11:31 AM",
+    "magnitude": "4.0",
+    "location": "320km S 65Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental)"
+  },
+  {
+    "time": "13 November 2025 - 11:17 AM",
+    "magnitude": "2.2",
+    "location": "032km N 54Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "13 November 2025 - 10:40 AM",
+    "magnitude": "2.3",
+    "location": "029km N 44Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "13 November 2025 - 10:13 AM",
+    "magnitude": "2.1",
+    "location": "021km N 58Â° E of City Of Bogo (Cebu)"
+  },
+  {
     "time": "13 November 2025 - 09:36 AM",
     "magnitude": "1.9",
     "location": "020km S 03Â° E of General Luna (Surigao Del Norte)"
@@ -28,25 +48,5 @@
     "time": "13 November 2025 - 05:08 AM",
     "magnitude": "2.1",
     "location": "011km S 82Â° W of Socorro (Oriental Mindoro)"
-  },
-  {
-    "time": "13 November 2025 - 04:49 AM",
-    "magnitude": "2.1",
-    "location": "022km N 61Â° E of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "13 November 2025 - 04:36 AM",
-    "magnitude": "2.0",
-    "location": "004km N 73Â° E of San Francisco (Southern Leyte)"
-  },
-  {
-    "time": "13 November 2025 - 04:31 AM",
-    "magnitude": "3.2",
-    "location": "006km N 49Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "13 November 2025 - 04:27 AM",
-    "magnitude": "2.2",
-    "location": "016km N 68Â° E of Kabugao (Apayao)"
   }
 ]
