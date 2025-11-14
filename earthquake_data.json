@@ -1,52 +1,52 @@
 [
   {
-    "time": "14 November 2025 - 07:42 AM",
+    "time": "14 November 2025 - 11:16 AM",
     "magnitude": "2.3",
-    "location": "006km N 28Â° E of Libagon (Southern Leyte)"
+    "location": "022km N 41Â° E of Malita (Davao Occidental)"
   },
   {
-    "time": "14 November 2025 - 07:25 AM",
-    "magnitude": "3.0",
-    "location": "010km N 60Â° E of City Of Bogo (Cebu)"
+    "time": "14 November 2025 - 11:15 AM",
+    "magnitude": "1.8",
+    "location": "012km N 54Â° W of Calatagan (Batangas)"
   },
   {
-    "time": "14 November 2025 - 07:01 AM",
+    "time": "14 November 2025 - 11:15 AM",
+    "magnitude": "1.8",
+    "location": "012km N 54Â° W of Calatagan (Batangas)"
+  },
+  {
+    "time": "14 November 2025 - 10:59 AM",
+    "magnitude": "1.2",
+    "location": "009km N 22Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "14 November 2025 - 10:58 AM",
     "magnitude": "2.0",
-    "location": "007km S 06Â° E of Tagbina (Surigao Del Sur)"
+    "location": "010km N 49Â° E of City Of Bogo (Cebu)"
   },
   {
-    "time": "14 November 2025 - 05:57 AM",
-    "magnitude": "3.4",
-    "location": "069km N 78Â° E of Baganga (Davao Oriental)"
+    "time": "14 November 2025 - 10:43 AM",
+    "magnitude": "2.9",
+    "location": "033km S 79Â° E of Jose Abad Santos (Davao Occidental)"
   },
   {
-    "time": "14 November 2025 - 05:54 AM",
-    "magnitude": "3.3",
-    "location": "022km S 10Â° W of General Luna (Surigao Del Norte)"
-  },
-  {
-    "time": "14 November 2025 - 05:41 AM",
-    "magnitude": "2.7",
-    "location": "002km S 54Â° E of Hernani (Eastern Samar)"
-  },
-  {
-    "time": "14 November 2025 - 05:37 AM",
-    "magnitude": "1.4",
-    "location": "018km S 01Â° W of General Luna (Surigao Del Norte)"
-  },
-  {
-    "time": "14 November 2025 - 05:11 AM",
+    "time": "14 November 2025 - 10:40 AM",
     "magnitude": "2.1",
-    "location": "013km S 31Â° W of City Of Bogo (Cebu)"
+    "location": "007km N 87Â° E of Manay (Davao Oriental)"
   },
   {
-    "time": "14 November 2025 - 04:23 AM",
-    "magnitude": "1.6",
-    "location": "031km N 29Â° E of City Of Bogo (Cebu)"
+    "time": "14 November 2025 - 10:19 AM",
+    "magnitude": "2.5",
+    "location": "049km S 52Â° E of Governor Generoso (Davao Oriental)"
   },
   {
-    "time": "14 November 2025 - 04:10 AM",
+    "time": "14 November 2025 - 10:14 AM",
     "magnitude": "2.3",
-    "location": "022km N 34Â° E of Maconacon (Isabela)"
+    "location": "078km N 68Â° E of Baganga (Davao Oriental)"
+  },
+  {
+    "time": "14 November 2025 - 09:53 AM",
+    "magnitude": "3.0",
+    "location": "010km N 20Â° W of Tingloy (Batangas)"
   }
 ]
