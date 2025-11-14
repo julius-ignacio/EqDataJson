@@ -1,5 +1,40 @@
 [
   {
+    "time": "14 November 2025 - 07:42 AM",
+    "magnitude": "2.3",
+    "location": "006km N 28Â° E of Libagon (Southern Leyte)"
+  },
+  {
+    "time": "14 November 2025 - 07:25 AM",
+    "magnitude": "3.0",
+    "location": "010km N 60Â° E of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "14 November 2025 - 07:01 AM",
+    "magnitude": "2.0",
+    "location": "007km S 06Â° E of Tagbina (Surigao Del Sur)"
+  },
+  {
+    "time": "14 November 2025 - 05:57 AM",
+    "magnitude": "3.4",
+    "location": "069km N 78Â° E of Baganga (Davao Oriental)"
+  },
+  {
+    "time": "14 November 2025 - 05:54 AM",
+    "magnitude": "3.3",
+    "location": "022km S 10Â° W of General Luna (Surigao Del Norte)"
+  },
+  {
+    "time": "14 November 2025 - 05:41 AM",
+    "magnitude": "2.7",
+    "location": "002km S 54Â° E of Hernani (Eastern Samar)"
+  },
+  {
+    "time": "14 November 2025 - 05:37 AM",
+    "magnitude": "1.4",
+    "location": "018km S 01Â° W of General Luna (Surigao Del Norte)"
+  },
+  {
     "time": "14 November 2025 - 05:11 AM",
     "magnitude": "2.1",
     "location": "013km S 31Â° W of City Of Bogo (Cebu)"
@@ -13,40 +48,5 @@
     "time": "14 November 2025 - 04:10 AM",
     "magnitude": "2.3",
     "location": "022km N 34Â° E of Maconacon (Isabela)"
-  },
-  {
-    "time": "14 November 2025 - 03:17 AM",
-    "magnitude": "1.4",
-    "location": "001km S 60Â° W of Looc (Occidental Mindoro)"
-  },
-  {
-    "time": "14 November 2025 - 03:12 AM",
-    "magnitude": "2.5",
-    "location": "028km N 83Â° E of General Luna (Surigao Del Norte)"
-  },
-  {
-    "time": "14 November 2025 - 03:03 AM",
-    "magnitude": "2.1",
-    "location": "027km N 02Â° E of Magsaysay (Misamis Oriental)"
-  },
-  {
-    "time": "14 November 2025 - 02:55 AM",
-    "magnitude": "2.3",
-    "location": "045km N 57Â° E of Burgos (Surigao Del Norte)"
-  },
-  {
-    "time": "14 November 2025 - 02:46 AM",
-    "magnitude": "2.6",
-    "location": "043km S 68Â° E of Caraga (Davao Oriental)"
-  },
-  {
-    "time": "14 November 2025 - 02:40 AM",
-    "magnitude": "1.7",
-    "location": "013km N 83Â° W of Carrascal (Surigao Del Sur)"
-  },
-  {
-    "time": "14 November 2025 - 02:37 AM",
-    "magnitude": "2.9",
-    "location": "012km S 06Â° W of Dalupiri Island (Calayan) (Cagayan)"
   }
 ]
