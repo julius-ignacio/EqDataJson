@@ -1,5 +1,30 @@
 [
   {
+    "time": "16 November 2025 - 11:22 AM",
+    "magnitude": "1.4",
+    "location": "012km N 20Â° W of City Of Bogo (Cebu)"
+  },
+  {
+    "time": "16 November 2025 - 11:22 AM",
+    "magnitude": "1.4",
+    "location": "011km N 10Â° E of Sirawai (Zamboanga Del Norte)"
+  },
+  {
+    "time": "16 November 2025 - 11:11 AM",
+    "magnitude": "1.7",
+    "location": "018km S 43Â° E of Sirawai (Zamboanga Del Norte)"
+  },
+  {
+    "time": "16 November 2025 - 10:40 AM",
+    "magnitude": "2.1",
+    "location": "003km N 31Â° E of Manay (Davao Oriental)"
+  },
+  {
+    "time": "16 November 2025 - 10:36 AM",
+    "magnitude": "2.1",
+    "location": "005km N 75Â° E of City Of Bogo (Cebu)"
+  },
+  {
     "time": "16 November 2025 - 08:28 AM",
     "magnitude": "2.7",
     "location": "088km N 39Â° E of Manay (Davao Oriental)"
@@ -23,30 +48,5 @@
     "time": "16 November 2025 - 07:20 AM",
     "magnitude": "2.7",
     "location": "015km N 30Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "16 November 2025 - 07:10 AM",
-    "magnitude": "2.2",
-    "location": "012km N 12Â° W of City Of Bogo (Cebu)"
-  },
-  {
-    "time": "16 November 2025 - 06:43 AM",
-    "magnitude": "1.8",
-    "location": "022km S 73Â° W of Bansud (Oriental Mindoro)"
-  },
-  {
-    "time": "16 November 2025 - 05:45 AM",
-    "magnitude": "3.7",
-    "location": "394km S 34Â° E of South Ubian (Tawi-tawi)"
-  },
-  {
-    "time": "16 November 2025 - 05:09 AM",
-    "magnitude": "2.6",
-    "location": "007km S 03Â° W of Alfonso Lista (Ifugao)"
-  },
-  {
-    "time": "16 November 2025 - 04:34 AM",
-    "magnitude": "3.3",
-    "location": "006km N 79Â° E of City Of Bogo (Cebu)"
   }
 ]
